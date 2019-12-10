@@ -1,0 +1,58 @@
+Pwd -present working directry
+ls - look the list
+ls -a for hidden fils as well
+CD <folder name>
+cd .. one stap back
+Cd
+fils Command
+   touch echo
+   gidit namo (only work on linex)
+   cat
+touch is only use to create any file
+echo- white some data to the file(Echo will overlap the data)
+file
+cat -only for reading 
+nano--read and write
+gedit - read and write
+
+> overlap 
+>> not overlap
+
+^ means Ctrl
+git init -  to start the repos.
+
+untaracked - not under version control
+Tracked - under the version control
+Ubnmodified - rest in un touch 
+Modified - change under git
+
+Working Dirctry means - not apart of git (Untrack)
+staging Area -is  A PART OF GIT (STAGing area)
+
+ git add dl.txt - push the file to staging area
+
+git  commit -m " 1st comment" 
+
+git config user.email - to check the user id
+
+git log - list of commets 
+git remote - help - to get the help in remote
+git add remote add 
+
+git remote - v
+git pull Test-git master
+git puch -f --set-upstream project master - to push the data in cloud stroge
+
+Fetch
+git pull Test-git master
+push:-
+git puch -u test-Git 
+git push -f --set-upstream
+test- Git master
+
+
+
+
+
+
+
